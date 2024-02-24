@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sergiovalerDEV
-- 👀 I’m interested in .Full Stack Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning JAVA, Oracle, AWS, JavaScript...
 - 💞️ I’m looking to collaborate on begginer projects
 - 📫 How to reach me Instagram @sergi__025
